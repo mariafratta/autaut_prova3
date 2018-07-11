@@ -512,8 +512,9 @@ div.ex1 {
   .box4 {
     position: absolute;
     width: 90%;
-    left: 0%;
+    left: 5%;
     top: 80%;
+    text-align: center;
   }
 
   .box5 {
@@ -545,5 +546,10 @@ div.ex1 {
 
   .box4plus {
     display: none;
+  }
+ 
+   .boxback {
+    width: 90%;
+    left: 5%;
   }
 }
